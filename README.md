@@ -11,7 +11,11 @@
 
 </div>
 
-   >Esse projeto foi desenvolvido na #NextLevelWeekTogether da **[Rocketseat  💜🚀](https://rocketseat.com.br/)** no período de 21 a 25 de junho de 2021<br> 
+
+## Overview
+
+Esse projeto foi desenvolvido na #NextLevelWeekTogether da **[Rocketseat  💜🚀](https://rocketseat.com.br/)** no período de 21 a 25 de junho de 2021<br> 
+Padrão arquitetural baseado em **MVC** e gerência de estado feita com ***valueNotifier()***.
 
 ---
 
@@ -42,9 +46,7 @@
    </p>
 
    <p align="center">
-      O Layout foi desenvolvido por <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, e você pode acessá-lo no Figma:
-   
-   - <a href="https://www.figma.com/file/kLK7FYnWKMoN68sQXcSniu/PayFlow">Mobile</a> 📱
+      O Layout foi desenvolvido por <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, e você pode acessá-lo no Figma: <a href="https://www.figma.com/file/kLK7FYnWKMoN68sQXcSniu/PayFlow">Mobile</a> 📱
    </p>
 
 ---
