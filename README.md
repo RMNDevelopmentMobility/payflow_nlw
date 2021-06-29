@@ -1,7 +1,7 @@
 # payflow - Trilha nlw da Rocketseat
 
 <p align="center">
-  <img alt="PayFlow" src=".github/payflow-logo.png" width="200px">
+  <img alt="PayFlow" src="github_img/payflow-logo.png" width="200px">
 </p>
 
 <div align="center">
@@ -38,7 +38,7 @@
 <h2 align="center">Layout 🎨</h2>
 
    <p align="center">
-      <img alt="PayFlow" title="PayFlow" src=".github/capa.png" />
+      <img alt="PayFlow" title="PayFlow" src="github_img/capa.png" />
    </p>
 
    <p align="center">
@@ -50,6 +50,6 @@
 ---
 
    <p align="center">
-      <img alt="NLW" title="PayFlow" src=".github/nlw.png" />
+      <img alt="NLW" title="PayFlow" src="github_img/nlw.png" />
    </p>
 
